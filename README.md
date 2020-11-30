@@ -7,6 +7,11 @@
 - [Öğrendikleri](https://procry.com/)
 - [Youtube](https://www.youtube.com/c/Cryptosam)
 
+## Ne Okudu?
+- Afyon Kocatepe Üniversitesi: Matematik (2003-2010)
+- Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014)
+- Uşak Üniversitesi: Bilgisayar Programcılığı (2019-?)
+
 <!--
 **cryptosam/cryptosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
