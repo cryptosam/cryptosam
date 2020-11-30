@@ -7,7 +7,7 @@
 - [Öğrendikleri](https://procry.com/)
 - [Youtube](https://www.youtube.com/c/Cryptosam)
 
-## Ne Okudu?
+## Eğitim
 - Afyon Kocatepe Üniversitesi: Matematik (2003-2010)
 - Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014)
 - Uşak Üniversitesi: Bilgisayar Programcılığı (2019-?)
