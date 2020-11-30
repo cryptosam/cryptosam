@@ -1,4 +1,11 @@
-### Hi there 👋
+## Cryptosam Kimdir?
+İnternet işleri ile geçimini sağlayan, internette Cryptosam takma adını kullanan, gerçek adı Samet Yiğit olan vatandaş :)
+
+## Nerelerdeyim?
+[Seo Blogu](https://www.cryptosam.com/)
+[Seo Forumu](https://seocry.com/)
+[Öğrendikleri](https://procry.com/)
+[Youtube](https://www.youtube.com/c/Cryptosam)
 
 <!--
 **cryptosam/cryptosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
