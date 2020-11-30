@@ -1,5 +1,5 @@
 ## Cryptosam Kimdir?
-İnternet işleri ile geçimini sağlayan, internette Cryptosam takma adını kullanan, gerçek adı Samet Yiğit olan vatandaş :)
+İnternet işleri ile geçimini sağlayan, internette "Cryptosam" takma adını kullanan, gerçek adı "Samet Yiğit" olan vatandaş :)
 
 ## Nerelerdeyim?
 - [Seo Blogu](https://www.cryptosam.com/)
