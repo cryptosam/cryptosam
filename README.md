@@ -9,7 +9,7 @@
 
 ## Eğitim
 - Afyon Kocatepe Üniversitesi: Matematik (2003-2010)
-- Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014)
+- Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014-2015)
 - Uşak Üniversitesi: Bilgisayar Programcılığı (2019-?)
 
 <!--
