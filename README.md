@@ -10,7 +10,7 @@
 ## Eğitim
 - Afyon Kocatepe Üniversitesi: Matematik (2003-2010)
 - Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014-2015)
-- Uşak Üniversitesi: Bilgisayar Programcılığı (2019-?)
+- Uşak Üniversitesi: Bilgisayar Programcılığı (2019-2021)
 
 <!--
 **cryptosam/cryptosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
