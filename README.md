@@ -1,16 +1,15 @@
-## Cryptosam Kimdir?
-İnternet işleri ile geçimini sağlayan, internette "Cryptosam" takma adını kullanan, gerçek adı "Samet Yiğit" olan vatandaş :)
+# Hey, I'm Samet Yigit
 
-## Nerelerdeyim?
-- [Seo Blogu](https://www.cryptosam.com/)
-- [Seo Forumu](https://seocry.com/)
-- [Öğrendikleri](https://procry.com/)
-- [Youtube](https://www.youtube.com/c/Cryptosam)
+Founder of [Cryptosam LLC](https://cryptosam.com) — building server infrastructure and web solutions since 2012.
 
-## Eğitim
-- Afyon Kocatepe Üniversitesi: Matematik (2003-2010)
-- Uşak Üniversitesi: Matematik Formasyon Eğitimi (2014-2015)
-- Uşak Üniversitesi: Bilgisayar Programcılığı (2019-2021)
+Mathematics background turned into 14 years of hands-on experience with servers, SEO, and web development. I build tools that solve real problems and open-source them when they can help others.
+
+## What I do
+
+- Server infrastructure management and performance optimization
+- Web application development (Next.js, Docker, PostgreSQL)
+- SEO strategy and technical consulting
+- Open-source tooling for the self-hosting community
 
 <!--
 **cryptosam/cryptosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
